@@ -1,2 +1,3 @@
-# pandora3-widget-FieldTextFiltered
-Filtered text field widget for Pandora 3
+# Pandora 3 - FieldTextFiltered widget
+
+Text form field that filters characters on keypress
