@@ -1,8 +1,8 @@
 {
-	"name": "pandora3/widget-field-checkbox-group",
+	"name": "pandora3/widget-field-text-filtered",
 	"type": "pandora3-widget",
-	"description": "Pandora 3: Widget FieldCheckboxGroup",
-	"homepage": "https://github.com/PandoraTeam/pandora3-widget-FieldCheckboxGroup",
+	"description": "Pandora 3: Widget FieldTextFiltered",
+	"homepage": "https://github.com/PandoraTeam/pandora3-widget-FieldTextFiltered",
 	"authors": [
 		{
 			"name": "Petr Gostin",
@@ -12,6 +12,6 @@
 		}
 	],
 	"extra": {
-		"installer-name": "FieldCheckboxGroup"
+		"installer-name": "FieldTextFiltered"
 	}
 }
